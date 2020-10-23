@@ -1,9 +1,31 @@
 Readme for version 1
 
-This version was create as I was testing a concept. I had intended to add an esp-01 to the arduino nano.
+This version was created as I was testing a concept. I had intended to add an esp-01 to the arduino nano.
 I wasn't able ot have reliable communication through teh essp-10 so version 2 will use a wemos d1 mini at it's core.
 
 version 1 was hand soldered and 5mm led sat with in a 3d printed insert. The lenses were made with a 3d printed mold filed with epoxy resin 
 i used cheap dollar store resin as a test and didn't wnat to use my high quality stuff. and used resin tint for the colors.
 
 The LEDS match the lens color - I found this gives the best results as using the white leds on the color produced a washed out color.
+
+
+COMPUTER ASSEMBLY - 
+holder - this was a holder i made taht slides over my dual monitor mount post, it has a sleep and reset button along with lcd display spot.
+
+sleep was used for when i'd go to bed as the arduino nano has control over the door bell sound it will play the sound every so often until i wake up and reset it.
+   good for me as I'm partly deaf. it would also turn off the screen so tah tmy room would be dark for sleeping
+reset is used to reset the screen notification and intern reset a color on the tower if needed.
+
+led panel is the panel used to insert 5mm leds and solder them together with resisters.
+
+tower light cover is teh back cover for teh assembly, i glued mine in place, pased etehrnet cable thru the hole for the led wiring
+
+tower light is the main tower assembly.
+
+LENS - 
+
+lens mold is parts a nad b, they were alligned and hot glue at the seam. mann mold release 200 was used to prevent the resin from sticking.
+
+lens shaper - i would allow the lens to mostly cure and still be flexible (warning teh resin wil lstill be warm in this state - i'd remove it from teh mold and place it within the shaper
+this ensured that the lens was easy to remove from the mold and any moving it did coming out of teh mold gave it a chance to cure in the correct shape. found this gave me the best results
+and with the use of 5 minute epoxy gave me chance to make lenses really quickly.
