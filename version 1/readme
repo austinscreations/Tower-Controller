@@ -1,0 +1,9 @@
+Readme for version 1
+
+This version was create as I was testing a concept. I had intended to add an esp-01 to the arduino nano.
+I wasn't able ot have reliable communication through teh essp-10 so version 2 will use a wemos d1 mini at it's core.
+
+version 1 was hand soldered and 5mm led sat with in a 3d printed insert. The lenses were made with a 3d printed mold filed with epoxy resin 
+i used cheap dollar store resin as a test and didn't wnat to use my high quality stuff. and used resin tint for the colors.
+
+The LEDS match the lens color - I found this gives the best results as using the white leds on the color produced a washed out color.
