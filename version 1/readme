@@ -1,19 +1,19 @@
 Readme for version 1
 
 This version was created as I was testing a concept. I had intended to add an esp-01 to the arduino nano.
-I wasn't able ot have reliable communication through teh essp-10 so version 2 will use a wemos d1 mini at it's core.
+I wasn't able to have reliable communication through the esp-01 so version 2 will use a wemos d1 mini at it's core.
 
 As this was a test for me and only uses an RF433mhz reciever to control the white led I wont be posting any code.
 
-version 1 was hand soldered and 5mm led sat with in a 3d printed insert. The lenses were made with a 3d printed mold filed with epoxy resin 
-i used cheap dollar store resin as a test and didn't wnat to use my high quality stuff. and used resin tint for the colors.
+version 1 was hand soldered and 5mm led sat within a 3d printed insert. The lenses were made with a 3d printed mold filed with epoxy resin 
+i used cheap dollar store resin as a test and didn't want to use my high quality stuff. and used resin tint for the colors.
 
 The LEDS match the lens color - I found this gives the best results as using the white leds on the color produced a washed out color.
 
 normal state of the lcd is to state time and temperature.
 
 COMPUTER ASSEMBLY - 
-holder - this was a holder i made taht slides over my dual monitor mount post, it has a sleep and reset button along with lcd display spot.
+holder - this was a holder i made that slides over my dual monitor mount post, it has a sleep and reset button along with lcd display spot.
 
 sleep was used for when i'd go to bed as the arduino nano has control over the door bell sound it will play the sound every so often until i wake up and reset it.
    good for me as I'm partly deaf. it would also turn off the screen so that my room would be dark for sleeping
@@ -21,7 +21,7 @@ reset is used to reset the screen notification and intern reset a color on the t
 
 led panel is the panel used to insert 5mm leds and solder them together with resisters.
 
-tower light cover is teh back cover for teh assembly, i glued mine in place, pased etehrnet cable thru the hole for the led wiring
+tower light cover is the back cover for the assembly, i glued mine in place, passed etehrnet cable thru the hole for the led wiring
 
 tower light is the main tower assembly.
 
