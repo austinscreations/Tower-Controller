@@ -1,0 +1,14 @@
+Version 2 
+
+This version has the tower assembly using 5730 LEd's for lighting and a spot on the pcb for a wemos D1 mini.
+
+so far the 180 degree version has been made with 5 layer and 3 layer lighting. these should fit within the version 1 housing, 
+but the usb cable goes down and there isn't a hole in the 3d model for the reset button
+
+next updates will include a 360 degree version (multiple PCB's)
+
+versions after that will explore having POE powered option.
+
+all can be power with 5v usb but also has pads for an exteral power conenctor (eg2.1mm jack)
+
+will be updated as i create the pCB files, code and 3d housings will be made and adjusted once I order parts for assembly and testing.
