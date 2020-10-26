@@ -12,3 +12,5 @@ versions after that will explore having POE powered option.
 all can be power with 5v usb but also has pads for an exteral power conenctor (eg2.1mm jack)
 
 will be updated as i create the pCB files, code and 3d housings will be made and adjusted once I order parts for assembly and testing.
+
+noticed issues, removed oringal v2 designs will re-upload when I make changes
