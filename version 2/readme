@@ -2,15 +2,23 @@ Version 2
 
 This version has the tower assembly using 5730 LEd's for lighting and a spot on the pcb for a wemos D1 mini.
 
-so far the 180 degree version has been made with 5 layer and 3 layer lighting. these should fit within the version 1 housing, 
-but the usb cable goes down and there isn't a hole in the 3d model for the reset button
+***this version is larger than the v1 so taht both the 180 degree and 360 degree assebbilies can be the same size.***
 
-next updates will include a 360 degree version (multiple PCB's)
+Requires 12v power to run - diode proetcting 5v regualtor when programming via usb
 
-versions after that will explore having POE powered option.
+will be updated as I create the PCB files, code and 3d housings will be made and adjusted once I order parts for assembly and testing.
 
-all can be power with 5v usb but also has pads for an exteral power conenctor (eg2.1mm jack)
+2020-12-03:
+Created new files. there are different assemblies. 
 
-will be updated as i create the pCB files, code and 3d housings will be made and adjusted once I order parts for assembly and testing.
+180 version = has a single led panel with wemos d1 mini - giving ~180 degree ilumination
 
-noticed issues, removed oringal v2 designs will re-upload when I make changes
+360 stacking = used a control board and led boards - using brass stand offs to conenct each baord. there are solder jumpers which are to be used to route the signal
+for the ws2811s chip that controls the led mosfets. the depending on led color you need 82 ohm or 39 ohm 2010 1 watt resistors (text on pcb). 
+each baord will allow you to program 3 segment animations on the led baord. 3d printed parts with 45 degree angles nad chrome paint can be used to redirect light.
+
+360 version = uses 4 straight led panels to connect to a control board via 90 degree headers. uses ws2811s chip to control LED mosfets
+
+Boards are currently untested and don't have 3d assembly files, working on multiple projects and home to do a mass ebay order to fill parts on these projects to keep my costs down.
+
+Hope to expore the option of a POE powered and ethernet controlled tower
