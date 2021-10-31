@@ -1,7 +1,10 @@
-# mini-notification-tower
+# Tower Controller
+# formerly mini-notification-tower
 
-As someone who has a home office and a workshop in teh agarge I wanted an easy way to have ntifications where ever I am.
-traditional 5 layer led notification lighst are large and pricey.
+I've recently found good sellers for lower cost industrial towers, whiel I'll still 3d print my own 180 degree tower light and share fiels should someone want to build one, i've now designed a semi-universal controlelr for controlling analog 12-24v tower lights
+
+As someone who has a home office and a workshop in the agarge I wanted an easy way to have ntifications where ever I am.
+traditional 5 layer led notification lights are large and pricey.
 I set out to make a smaller alternative solution. with 3d printing I made a 180 degree light, with the help of a 3d printed mold I was able to use epoxy resin and tints to create the lenses.
 
 -
