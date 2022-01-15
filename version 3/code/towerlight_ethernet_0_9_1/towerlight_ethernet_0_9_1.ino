@@ -932,19 +932,6 @@ void updateSensor()
      }
     }
 
-    if (temp_SensorFound == true)
-    {
-      if (tempMode == TEMP_C){temperature = tempSensor.readTempC();}
-      if (tempMode == TEMP_F){temperature = tempSensor.readTempF();}
-      if (temperature != NAN)
-      {
-      // Publish temp to mqtt
-      char payload[8];
-      sprintf(payload, "%2.1f", temperature);
-      json["MCP9808-temp"] = payload;
-     }
-    }
-
     if (hum_SensorFound == true)
     {
       sensors_event_t humidity, temp;
