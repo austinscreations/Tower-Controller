@@ -2,7 +2,7 @@
 
 Compatible with the latest work from OXRS and the HTML adminUI
 
-this one peice of code can eitehr work with wifi or ethernet. Wifi requires config.h to be edited with your credentials
+this one peice of code can either work with wifi or ethernet. Wifi requires config.h to be edited with your credentials
 ```c++
 /*----------------------- Connection Type --------------------------------*/
 // select connection mode here - comment / uncomment the one needed
