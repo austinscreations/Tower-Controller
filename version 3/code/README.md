@@ -30,6 +30,6 @@ the sensor library also uses quite a few libraries that can all be installed fro
 #include <Adafruit_MCP9808.h>         // For temp sensor
 #include <Adafruit_SSD1306.h>         // for OLED display
 #include <RTClib.h>                   // for PCF8523 RTC
-#include <hp_BH1750.h>                // for bh1750 lux sensor
+#include <BH1750.h>                   // For BH1750 lux sensor - non-adafruit library: https://github.com/claws/BH1750
 #include <Adafruit_SHT4x.h>           // for SHT40 Temp / humidity sensor
 ```
