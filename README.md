@@ -1,9 +1,13 @@
 # Tower Controller
 # formerly mini-notification-tower
 
-I've recently found good sellers for lower cost industrial towers, whiel I'll still 3d print my own 180 degree tower light and share fiels should someone want to build one, i've now designed a semi-universal controlelr for controlling analog 12-24v tower lights
+I've recently found good sellers for lower cost industrial towers, while I'll still 3d print my own 180 degree tower light and share files should someone want to build one, I've now designed a semi-universal controller for controlling analog 12-24v tower lights
 
-As someone who has a home office and a workshop in the agarge I wanted an easy way to have ntifications where ever I am.
+New code can be found here: [Github](https://github.com/austinscreations/OXRS-AC-TowerController-ESP8266-FW) <br>
+Load up a bin file in wifi or ethernet mode and provision the device using the admin UI: [Github](https://github.com/OXRS-IO/OXRS-IO-AdminUI-WEB-APP) <br>
+Compatable with the (http://oxrs.io) system
+
+As someone who has a home office and a workshop in the garage I wanted an easy way to have notifications whereever I am.
 traditional 5 layer led notification lights are large and pricey.
 I set out to make a smaller alternative solution. with 3d printing I made a 180 degree light, with the help of a 3d printed mold I was able to use epoxy resin and tints to create the lenses.
 
